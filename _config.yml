@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : " hyper98pjh 기술 블로그"
-title_separator          : "-"
+title                    : "hyper98pjh 기술 블로그"
+title_separator          : "Github 블로그 만들기"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jung Hyun Park"
 description              : "An amazing website."
